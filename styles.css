@@ -37,6 +37,10 @@ input[id="submit"]{
     margin-right: auto;
 }
 
+input[value="two"]{
+    margin-bottom: 1em;
+}
+
 label[for="dropdown"]{
     margin-right: 5%;
 }
